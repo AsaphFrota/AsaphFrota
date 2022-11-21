@@ -2,7 +2,7 @@
 - 👀 I’m interested in migrate to IT area
 - 🌱 I’m currently learning Java, JS and React Native
 - 💞️ I’m looking to collaborate on Educari app.
-- 📫 How to reach me: on Instagram: @https.asaph.
+- 📫 How to reach me: on Instagram: @react.asaph or e-mail: af.asaph+dev@gmail.com
 
 <!---
 AsaphFrota/AsaphFrota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
