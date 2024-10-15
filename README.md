@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AsaphFrota
 - 👀 I’m interested in migrate to IT area
-- 🌱 I’m currently learning Java, JS and React Native
-- 💞️ I’m looking to collaborate on Educari app.
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: on Instagram: @asaph_frota or e-mail: af.asaph+dev@gmail.com
 
 <!---
