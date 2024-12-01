@@ -1,6 +1,6 @@
 <h1 align="">Hi 👋, I'm 🐧 Asaph Frota</h1>
 <h3 align="">Creating my world to be better for the World.<h3/>
-<h4>I am a developer passionate about RPA Automations, Web development and Full-stack developer. Learning AI fundamentals and creating a project that will serve as my artificial mind.</h4>
+<h4>I am an enthusiastic developer in Full-stack web development, RPA Automations, Python solutions to make life easier for the average person. Learning AI fundamentals and creating a project that will serve as my artificial mind.</h4>
 
 **`Develloper`** **`UI/UX Design`** **`Married`** **`23 Yo`**
 
