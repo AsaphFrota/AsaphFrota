@@ -33,6 +33,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaphfrota&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="asaphfrota" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsaphFrota&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="AsaphFrota" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaphfrota&show_icons=true&theme=tokyonight&locale=en" alt="asaphfrota" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsaphFrota&show_icons=true&theme=tokyonight&locale=en" alt="AsaphFrota" /></p>
