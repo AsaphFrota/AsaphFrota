@@ -1,4 +1,4 @@
-<h1 align="">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm 🐧 Asaph Frota</h1>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm 🐧 Asaph Frota
 <h3 align="">Building my world to be better for the World.<h3/>
 <h4>I am an enthusiastic developer in Full-stack web development, RPA Automations, Python solutions to make life easier for the average person. Learning AI fundamentals and creating a project that will serve as my artificial mind.</h4>
 
