@@ -38,7 +38,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=flat&logo=livewire&logoColor=d3538a)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end & Database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
