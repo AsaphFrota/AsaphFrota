@@ -2,7 +2,7 @@
 <h3 align="">Building my world to be better for the World.<h3/>
 <h6>I am an enthusiastic developer in Full-stack web development, RPA Automations, Python solutions to make life easier for the average person. Learning AI fundamentals and creating a project that will serve as my artificial mind.</h6>
 
-**`Develloper`** **`UI/UX Design`** **`Married`** **`23 Yo`**
+**`Develloper`** **`UI/UX Design`** **`23 Yo`**
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaphfrota&label=Profile%20views&color=0e75b6&style=plastic" alt="asaphfrota" /> </p>
@@ -37,6 +37,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=flat&logo=livewire&logoColor=d3538a)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=ffffff)
+
 
 <h3>⚙️ &nbsp;Back-end & Database:</h3>
 
